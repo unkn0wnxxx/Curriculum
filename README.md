@@ -2,7 +2,7 @@
 
 ---
 
-This Curriculum should  get me to following levels:  
+This Curriculum will get me to following levels:  
   
 - Hardware (CompTia A+)  
 - Windows Client (MCP)
