@@ -1,0 +1,20 @@
+RAM (Random Access Memory) is the computer's short-term memory, which is way faster than
+an SSD/HDD. The CPU takes all the data from the RAM and processes it.
+
+Types of RAMS
+
+- DRAM: Main System memory (DDR4/DDR5)
+- SRAM: CPU Cache (L1/L2/L3)
+- GDDR6: Graphic Cards (VRAM)
+
+Why RAM Matters
+
+- Multitasking: More RAM = More apps open smoothly
+- Performance: Prevents sluggishness when switching tasks
+- Gaming/Design: Critical for high-resolution assets
+
+How it works
+
+- CPU Requests Data → Checks RAM first
+- RAM Delivers → If data is present (cache hit)
+- If Missing → Slower fetch from SSD/HDD (cache miss

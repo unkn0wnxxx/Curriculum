@@ -1,0 +1,13 @@
+ROM (Read-Only-Memory) stores data which is not changable. It also stores this data 
+permanently, without needing power. In most of the times the ROM is pre-coded and
+holds Firmware & BIOS/UEFI. So it is very important for booting
+
+Examples of ROM
+
+- EEPROM --> only changable via electric --> for modern BIOS-Updates
+- Flash-ROM --> Today's Standard --> for USB-Sticks, Smartphonestorage
+
+Usages of ROM
+
+-> Bootroutine of the PC: The BIOS/UEFI in the ROM initalizes the hardware.
+-> Firmware: Controls embedded systems (for example Cars)

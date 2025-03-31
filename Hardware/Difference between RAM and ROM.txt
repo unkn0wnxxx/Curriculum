@@ -1,0 +1,6 @@
+Main Differences of RAM vs ROM is:
+
+- RAM loses data while power is off, while ROM retains the data while power is off.
+- RAM serves as short-term memory, while ROM Stores firmware/BIOS permanently.
+- RAM is very fast, while ROM is slower than RAM
+- RAM is Read/write anytime, while ROM is read-only
