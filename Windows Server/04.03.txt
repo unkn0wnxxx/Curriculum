@@ -1,0 +1,11 @@
+1st Day of the new Windows Server OS Lab
+
+- Installed Windows Server 2022 in Vmware PRO
+- Setup'd the Windows Server Environment Graphically (faced issue with installation because I chose the 
+non graphical environment)
+- Changed Computer Name into "MMS-DC01" DC = Domain Controller
+--> an Domain Controller is a server responsible for managing user data and authentification processes within
+an network. For example if 100 people within an company have user accounts, they are stored within the DC. 
+--> Setted up static ip, subnetmask, and dns
+--> Checked if security updates are up-to-date
+--> Added a new forest, Root domain name is: mms-testing.com
